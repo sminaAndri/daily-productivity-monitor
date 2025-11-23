@@ -1,2 +1,8 @@
 Added: 8
 Average productivity: 7.3
+
+---
+
+## requirements.txt
+```txt
+# no external libraries
